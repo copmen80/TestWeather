@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="request">Request</string>
+    <string name="current_position_lat_lot"><![CDATA[Current Position: <lat>, lot>]]></string>
+    <string name="current_location">Current location:</string>
+    <string name="lat"><![CDATA[<lat>,]]></string>
+    <string name="lon"><![CDATA[<lon>]]></string>
+</resources>
