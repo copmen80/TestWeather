@@ -5,4 +5,7 @@
     <string name="current_location">Current location:</string>
     <string name="lat"><![CDATA[<lat>,]]></string>
     <string name="lon"><![CDATA[<lon>]]></string>
+    <string name="location_permission_denied">Location Permission Denied</string>
+    <string name="location_permission_granted">Location Permission Granted</string>
+    <string name="permission_already_granted">Permission already granted</string>
 </resources>
